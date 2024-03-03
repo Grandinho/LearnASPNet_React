@@ -1,0 +1,8 @@
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe.config
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\bin\Debug\TimeTracking.exe
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\bin\Debug\TimeTracking.pdb
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.AssemblyReference.cache
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.SuggestedBindingRedirects.cache
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\obj\Debug\TimeTracking.csproj.CoreCompileInputs.cache
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\obj\Debug\TimeTracking.exe
+C:\Grandinho\Projects\LearnASPNet_React\backend\TimeTracking\TimeTracking\obj\Debug\TimeTracking.pdb
